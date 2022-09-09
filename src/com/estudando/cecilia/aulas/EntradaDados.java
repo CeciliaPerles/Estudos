@@ -1,3 +1,4 @@
+package com.estudando.cecilia.aulas;
 import java.util.Scanner;
 
 public class EntradaDados {

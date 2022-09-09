@@ -1,3 +1,4 @@
+package com.estudando.cecilia.exercicios.entradadados;
 import java.util.Scanner;
 
 public class CalculoFormasGeometricas {
